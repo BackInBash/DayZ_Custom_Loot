@@ -1,2 +1,2 @@
-# DayZ_Custom_Loot
+# DayZ Custom Loot
 A Collection of DayZ init.c Mission Settings
